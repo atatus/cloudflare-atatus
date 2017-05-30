@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "head": [
+      {
+        "type": "script",
+        "src": "./source/app.js"
+      }
+    ]
+  },
+  "options": {
+    "properties": {
+      "apikey": {
+        "title": "Atatus API Key",
+        "placeholder": "0cfde54134b32e1cb2b63ae7eb9ac1f3",
+        "type": "string",
+        "order": 0
+      }
+    }
+  }
+}
