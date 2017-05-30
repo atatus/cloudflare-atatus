@@ -1,4 +1,4 @@
-## Cloudflare Apps Atatus
+## Cloudflare Atatus App
 >Add Atatus to your website using Cloudflare
 
 [Atatus](https://www.atatus.com/) allows you to see how your web application is performing from the point of view of a real user and tells you when problems arise.
