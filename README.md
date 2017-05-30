@@ -6,7 +6,7 @@
 <a href="https://www.cloudflare.com/apps/atatus/install?source=button">
   <img
     src="https://install.eager.io/install-button.png"
-    alt="Install Atatus with Cloudflare Apps"
+    alt="Install Atatus with Cloudflare"
     border="0"
     width="150">
 </a>
